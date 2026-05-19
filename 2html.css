@@ -1,0 +1,43 @@
+div{
+    box-sizing: border-box;
+    margin-bottom: 0%;
+    padding: 0px;
+    margin-top: 0%;
+    border: 10px solid rgb(36, 82, 121);
+    
+}
+body{
+    background-color: rgb(241, 171, 171);
+    background-image: url("https://t3.ftcdn.net/jpg/13/17/81/28/360_F_1317812808_R87A0AurPvdRkoyJ9Gq7jUqx1iEsJmXP.webp");
+    background-position: center;
+    background-repeat: no-repeat ;
+    background-size:100% 100%;
+    background-attachment:fixed ;
+    background-origin: ;
+}
+#div1{
+    font-size: 20px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#para{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: centre;
+    text-transform: uppercase;
+    text-shadow: 4px 4px 3px rgb(63, 3, 3);
+    line-height: 30px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-size: 150%;
+    margin-top: 20%;
+    margin-bottom:10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
